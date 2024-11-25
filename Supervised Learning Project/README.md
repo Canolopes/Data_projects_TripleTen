@@ -34,6 +34,7 @@ EstimatedSalary — estimated salary
 
 
 __Target__
+
 Exited — сustomer has left
 
 ## The Process
