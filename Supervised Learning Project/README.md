@@ -40,3 +40,5 @@ Exited — сustomer has left
 ## The Process
 
 This project would feature data with an imbalance of classes. After determining that our data was imbalanced, we would scale our data so that we would be able to more optimally train our model. We trained logistic regression, decision tree, and random forest models. The random forest model was tuned to find the optimal parameters. It passed verification on our final test set with F1 score as our metric, and further validated with a plot of its ROC curve.
+
+Please open the attached Jupyter Notebook to see the entire code I used to reach my conclusions.
